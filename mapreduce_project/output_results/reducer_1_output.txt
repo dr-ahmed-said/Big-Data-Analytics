@@ -1,0 +1,5 @@
+damage	2
+fire	2
+roof	3
+theft	2
+water	3
